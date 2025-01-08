@@ -36,7 +36,7 @@ Clone the repository:
 
 
 Copy code
-git clone https://github.com/your-username/aws-weather-dashboard.git  
+git clone https://github.com/danielhensha2/aws-weather-dashboard.git  
 
 Navigate to the project directory:
 Copy code
